@@ -1,0 +1,6 @@
+A list is an ordered set of values, where each value is identified by an index.
+The values that make up a list are called its elements. Lists are similar to strings, which are ordered sets of characters, except that the elements of a list can have any type.Lists and strings — and other things that behave like ordered sets — are called sequences.
+The first example is a list of four integers. The second is a list of three strings. The elements of a list don’t have to be the same type.
+The following list contains a string, a float, an integer, and (mirabile dictu) another list.
+A list within another list is said to be nested.
+Like numeric 0 values and the empty string, the empty list is false in a boolean expression.
